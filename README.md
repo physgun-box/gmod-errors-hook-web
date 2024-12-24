@@ -15,3 +15,6 @@
 
 Добавить сборку в Docker
 Расширить функционал анализа ошибок.
+
+
+![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=physgun-box&repository=gmod-errors-hook-web&theme=dark)
